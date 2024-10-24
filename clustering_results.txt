@@ -1,0 +1,184 @@
+画像のクラスタリング結果 (クラスタ数: 5)
+==================================================
+
+
+クラスタ 1:
+--------------------
+  - Cat_018.jpg
+  - Cat_087.jpg
+  - Cat_092.jpg
+  - Cat_091.jpg
+  - Cat_094.jpg
+  - Cat_040.jpg
+  - Cat_097.jpg
+  - Cat_111.jpg
+  - Cat_064.jpg
+  - Cat_070.jpg
+  - Cat_110.jpg
+  - Cat_104.jpg
+  - Cat_049.jpg
+  - Cat_005.jpg
+  - Cat_004.jpg
+
+  特徴量平均値:
+    ASM/エネルギー: 0.0002
+    コントラスト: 4198.9676
+    均質性（IDM）: 0.0335
+    不均一性: 47.4459
+    相関: 0.3932
+
+
+クラスタ 2:
+--------------------
+  - Cat_027.jpg
+  - Cat_026.jpg
+  - Cat_032.jpg
+  - Cat_024.jpg
+  - Cat_030.jpg
+  - Cat_019.jpg
+  - Cat_031.jpg
+  - Cat_025.jpg
+  - Cat_034.jpg
+  - Cat_022.jpg
+  - Cat_093.jpg
+  - Cat_044.jpg
+  - Cat_078.jpg
+  - Cat_086.jpg
+  - Cat_084.jpg
+  - Cat_080.jpg
+  - Cat_096.jpg
+  - Cat_041.jpg
+  - Cat_065.jpg
+  - Cat_059.jpg
+  - Cat_058.jpg
+  - Cat_112.jpg
+  - Cat_099.jpg
+  - Cat_067.jpg
+  - Cat_107.jpg
+  - Cat_063.jpg
+  - Cat_062.jpg
+  - Cat_089.jpg
+  - Cat_100.jpg
+  - Cat_061.jpg
+  - Cat_007.jpg
+  - Cat_011.jpg
+  - Cat_039.jpg
+  - Cat_029.jpg
+  - Cat_016.jpg
+
+  特徴量平均値:
+    ASM/エネルギー: 0.0004
+    コントラスト: 426.1346
+    均質性（IDM）: 0.1045
+    不均一性: 13.6795
+    相関: 0.7634
+
+
+クラスタ 3:
+--------------------
+  - Cat_035.jpg
+  - Cat_073.jpg
+  - Cat_048.jpg
+  - Cat_075.jpg
+
+  特徴量平均値:
+    ASM/エネルギー: 0.0039
+    コントラスト: 199.0222
+    均質性（IDM）: 0.2823
+    不均一性: 6.6759
+    相関: 0.5741
+
+
+クラスタ 4:
+--------------------
+  - Cat_009.jpg
+  - Cat_021.jpg
+  - Cat_020.jpg
+  - Cat_008.jpg
+  - Cat_036.jpg
+  - Cat_023.jpg
+  - Cat_037.jpg
+  - Cat_079.jpg
+  - Cat_045.jpg
+  - Cat_090.jpg
+  - Cat_053.jpg
+  - Cat_052.jpg
+  - Cat_085.jpg
+  - Cat_081.jpg
+  - Cat_095.jpg
+  - Cat_042.jpg
+  - Cat_056.jpg
+  - Cat_057.jpg
+  - Cat_109.jpg
+  - Cat_082.jpg
+  - Cat_054.jpg
+  - Cat_083.jpg
+  - Cat_108.jpg
+  - Cat_105.jpg
+  - Cat_106.jpg
+  - Cat_066.jpg
+  - Cat_072.jpg
+  - Cat_098.jpg
+  - Cat_113.jpg
+  - Cat_088.jpg
+  - Cat_076.jpg
+  - Cat_102.jpg
+  - Cat_074.jpg
+  - Cat_060.jpg
+  - Cat_101.jpg
+  - Cat_012.jpg
+  - Cat_006.jpg
+  - Cat_013.jpg
+  - Cat_010.jpg
+  - Cat_000.jpg
+  - Cat_014.jpg
+  - Cat_015.jpg
+  - Cat_001.jpg
+  - Cat_017.jpg
+  - Cat_003.jpg
+  - Cat_002.jpg
+
+  特徴量平均値:
+    ASM/エネルギー: 0.0002
+    コントラスト: 1051.3792
+    均質性（IDM）: 0.0541
+    不均一性: 23.6451
+    相関: 0.3847
+
+
+クラスタ 5:
+--------------------
+  - Cat_033.jpg
+  - Cat_050.jpg
+  - Cat_051.jpg
+  - Cat_047.jpg
+  - Cat_046.jpg
+  - Cat_043.jpg
+  - Cat_069.jpg
+  - Cat_055.jpg
+  - Cat_068.jpg
+  - Cat_071.jpg
+  - Cat_103.jpg
+  - Cat_077.jpg
+  - Cat_038.jpg
+  - Cat_028.jpg
+
+  特徴量平均値:
+    ASM/エネルギー: 0.0014
+    コントラスト: 313.1722
+    均質性（IDM）: 0.1377
+    不均一性: 10.0412
+    相関: 0.4599
+
+
+最適なクラスタ数の選択:
+--------------------
+シルエット分析により、5個のクラスタが最適と判断されました。
+
+使用した特徴量の説明:
+--------------------
+ASM/エネルギー: テクスチャの均一性を示す指標
+コントラスト: 濃度の局所的な変化を示す指標
+均質性（IDM）: 画像の局所的な均一性を示す指標
+不均一性: 濃度値の局所的な違いを示す指標
+相関: 濃度値の線形的な関係性を示す指標
